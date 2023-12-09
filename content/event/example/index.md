@@ -1,8 +1,19 @@
 ---
-title: Influencia de la metacognición y la dimensión afectiva en la modelación matemática: una revisión sistemática
+title: Example Talk
 
+event: Hugo Blox Builder Conference
+event_url: https://example.org
 
-summary: La presente revisión sistemática tuvo por objetivo caracterizar la relación existente entre la metacognición y la dimensión afectiva en la modelación matemática. Para ello, se realizó un análisis de literatura, extrayendo aspectos bibliográficos, metodológicos y patrones en los datos de aquellos estudios, publicados en la última década, centrados en metacognición, dimensión afectiva y modelación matemática. De los 934 artículos identificados en bases de datos y actas de congreso de alto renombre, 21 documentos fueron seleccionados para el análisis final. Esta revisión reveló el interés internacional con respecto a la influencia de estas dimensiones en problemas de modelado matemático. Además, señaló la necesidad de ampliar el trabajo empírico, así como su metodología de recopilación de datos, para favorecer estudios con aristas más completas de análisis. En cuanto a la tendencia de los datos, se apreció el esfuerzo de los autores por enlazar estos componentes en el análisis sobre su influencia en la modelación, reconociendo una relación bidireccional entre las dimensiones estudiadas. En general, la revisión actual apunta a la necesidad de trabajar en conjunto aspectos relacionados a la afectividad y metacognición en contextos de modelado matemático, que permita la futura implementación de ideas pedagógicas significativas para la práctica y formación docente.
+location: Hugo Blox Builder HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
+
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -13,8 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Victor Arévalo Salgado, Valentina Lara Ibarra, Brayan Meléndez Contreras
-]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
