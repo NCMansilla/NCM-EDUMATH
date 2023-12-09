@@ -7,8 +7,6 @@ authors:
 - Cárcamo Noemí
 doi: "http://dx.doi.org/10.4067/S0718-33052022000100037"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "21-03-11"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
