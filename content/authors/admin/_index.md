@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Noemí Cárcamo Mansilla 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Noemí
+last_name: Cárcamo
 
 # Status emoji
 status:
