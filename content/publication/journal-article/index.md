@@ -1,13 +1,15 @@
 ---
 title: "An example journal article"
 authors:
-- ahhhhhnnnnn
-- Robert Ford
+- Aravena María
+- Díaz Danilo
+- Rodríguez Francisco
+- Cárcamo Noemí
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "http://dx.doi.org/10.4067/S0718-33052022000100037"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
