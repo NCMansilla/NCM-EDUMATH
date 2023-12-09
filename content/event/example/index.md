@@ -1,5 +1,5 @@
 ---
-title: influencia
+title: Influencia de la Metacognición y la dimensión afectiva en la modelación matemática: una revisión sistemática
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
