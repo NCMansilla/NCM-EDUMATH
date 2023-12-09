@@ -4,7 +4,7 @@ title: Influencia de la Metacognición y la dimensión afectiva en la modelació
 event: Curso Síntesis de Grado en Educación
 event_url: https://example.org
 
-location: Victor Arévalo
+location: Victor Arévalo, Valentina Lara
 address:
   street: 450 Serra Mall
   city: Stanford
