@@ -70,6 +70,12 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id: docenc
+    content:
+      title: Docencia
+      subtitle: ''
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  - block: markdown
     content:
       title: Gallery
       subtitle: ''
@@ -78,6 +84,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: public-recents
     content:
       title: Publicaciones recientes
       text: |-
