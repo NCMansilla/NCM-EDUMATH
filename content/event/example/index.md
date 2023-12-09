@@ -1,10 +1,10 @@
 ---
 title: Influencia de la Metacognición y la dimensión afectiva en la modelación matemática. Una revisión sistemática
 
-event: Victor
+event: Curso Síntesis de Grado en Educación
 event_url: https://example.org
 
-location: victor
+location: Victor Arévalo
 address:
   street: 450 Serra Mall
   city: Stanford
