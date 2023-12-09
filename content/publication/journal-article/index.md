@@ -8,7 +8,7 @@ authors:
 doi: "http://dx.doi.org/10.4067/S0718-33052022000100037"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "21-03-11"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,10 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Ingeniare. Revista chilena de ingeniería, 30*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: El artículo aborda la formación matemática para ingenieros, los que requieren nuevas habilidades para enfrentar desafíos y demandas sociales, que giran cada vez más en torno a STEM (ciencia, tecnología, ingeniería y matemática). La literatura evidencia la importancia de integrar STEM, desde los primeros niveles, usando modelado matemático como puente entre las disciplinas, para prepararlos en el estudio de problemas, soluciones y propuestas, que respondan a necesidades del medio externo. El objetivo fue caracterizar las habilidades STEM, de los estudiantes de primer año de ingeniería, cuando integran conocimientos en la resolución de casos reales, usando el modelado matemático como base del proceso de aprendizaje, en espacios de trabajo colaborativo. Se diseñó una secuencia didáctica, en temas de álgebra y cálculo, usando como estrategia de enseñanza el método de casos. La metodología fue cuantitativa, mediante análisis de contenido de sus producciones. Participaron 4 carreras de ingeniería (civil, industrial, informática y construcción), donde se seleccionó una muestra aleatoria, que corresponde a estudiantes de las carreras de informática y construcción. En el análisis de datos se utilizó estadísticos descriptivos, estadística inferencial y componentes principales. Los principales resultados mostraron que los estudiantes sobrepasan, en promedio, el nivel de competentes en las habilidades STEM, pero siguen presentando debilidades en: interpretar soluciones matemáticas, proyectar el modelo y diseñar soluciones para ingeniería, la cual es atribuida a dificultades en representar en 3D, aplicando propiedades geométricas. Lo anterior, fue comprobado por la falta de asociación entre las habilidades tecnológicas y de ingeniería, para integrar conocimientos..
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
