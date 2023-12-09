@@ -7,7 +7,7 @@ name_pronunciation: Noemí Cárcamo Mansilla
 
 # Full name (for SEO)
 first_name: Noemí
-last_name: Cárcamo
+last_name: Cárcam
 
 # Status emoji
 status:
