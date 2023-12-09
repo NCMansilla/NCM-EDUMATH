@@ -21,8 +21,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidad Católica
-    url: https://www.stanford.edu/
+  - name: Universidad Católica del Maule
+    url: https://www.ucm.cl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
