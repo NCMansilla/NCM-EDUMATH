@@ -7,7 +7,7 @@ name_pronunciation: Noemí Cárcamo Mansilla
 
 # Full name (for SEO)
 first_name: Noemí
-last_name: Cárcam
+last_name: Cárcamo
 
 # Status emoji
 status:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bienvenid_ a mi sitio web. Acá pongo a disposición mi trabajo de investigación, docencia y extensión de manera abierta. Soy docente universitaria desde el año 2014, actualmente trabajo en la Universidad Católica del Maule. Mi docencia está enfocada en Matemática para Ingeniería y actualmente Didáctica de la Matemática para Pedagogía. También he dictado cursos en Postgrado enfocados en metodologías de investigación cuantitativas y proyectos de investigación.
 {style="text-align: justify;"}
