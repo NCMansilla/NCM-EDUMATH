@@ -42,7 +42,7 @@ education:
     - course: Mg. Matemática Aplicada
       institution: Universidad Católica de Temuco
       year: 2017
-    - course: Diploma de postítulo análisis numtivariable
+    - course: Diploma de postítulo análisis multivariable
       institution: Universidad de Chile
       year: 2020
 
