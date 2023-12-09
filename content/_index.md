@@ -45,7 +45,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Proyectos
       filters:
         folders:
           - project
@@ -90,7 +90,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Publicaciones recientes
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -105,7 +105,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Direcciones de tesis
       filters:
         folders:
           - event
@@ -120,21 +120,21 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contacto
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: ncarcamomansilla@gmail.com
+      phone: 949735898
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
+        street: Alameda
+        city: Talca
+        region: Maule
         postcode: '94305'
-        country: United States
-        country_code: US
+        country: Chile
+        country_code: CH
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
