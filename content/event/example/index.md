@@ -1,7 +1,7 @@
 ---
 title: Influencia de la Metacognición y la dimensión afectiva en la modelación matemática. Una revisión sistemática
 
-event: Hugo Blox Builder Conference
+event: Victor
 event_url: https://example.org
 
 location: victor
