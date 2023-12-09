@@ -5,10 +5,6 @@ authors:
 - Díaz Danilo
 - Rodríguez Francisco
 - Cárcamo Noemí
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
 doi: "http://dx.doi.org/10.4067/S0718-33052022000100037"
 
 # Schedule page publish date (NOT publication's date).
