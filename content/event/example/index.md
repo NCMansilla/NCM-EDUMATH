@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Influencia de la metacognición y la dimensión afectiva en la modelación matemática: una revisión sistemática
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Victor Arévalo Salgado, Valentina Lara Ibarra, Brayan Meléndez Contreras
 address:
   street: 450 Serra Mall
   city: Stanford
