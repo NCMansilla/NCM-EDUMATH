@@ -7,7 +7,7 @@ name_pronunciation: Noemí Cárcamo Mansilla
 
 # Full name (for SEO)
 first_name: Noemí
-last_name: Cárcamo
+last_name: Cárcamo 
 
 # Status emoji
 status:
@@ -21,8 +21,8 @@ role: Profesora de Matemática
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidad Católica del Maule
-    url: https://www.ucm.cl/
+  - name: Universidad Católica de Temuco
+    url: https://www.uct.cl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mis intereses de investigación son la modelación matemática, metacognición, género y STEM.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Bienvenid_ a mi sitio web. Acá pongo a disposición mi trabajo de investigación, docencia y extensión de manera abierta. Soy docente universitaria desde el año 2014, actualmente trabajo en la Universidad Católica del Maule. Mi docencia está enfocada en Matemática para Ingeniería y actualmente Didáctica de la Matemática para Pedagogía. También he dictado cursos en Postgrado enfocados en metodologías de investigación cuantitativas y proyectos de investigación.
+Bienvenidos a mi sitio web. Acá pongo a disposición mi trabajo de investigación, docencia y extensión de manera abierta. Soy profesora desde el año 2014, actualmente académica en la Universidad Católica de Temuco. Enfocada en Didáctica de la Matemática y la formación de profesores. He dictado cursos en postgrado y pregrado enfocados en didácticas, educación STEM, metodologías de investigación, proyectos de investigación, entre otros.
 {style="text-align: justify;"}
