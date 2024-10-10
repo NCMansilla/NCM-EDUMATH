@@ -1,10 +1,10 @@
 ---
-title: "An example journal article"
+title: "Estudio de caso y modelado matemático en la formación de ingenieros. Caracterización de habilidades STEM"
 authors:
-- Aravena María
-- Díaz Danilo
+- Aravena-Díaz María
+- Díaz-Levicoy Danilo
 - Rodríguez Francisco
-- Cárcamo Noemí
+- Cárcamo-Mansilla Noemí
 doi: "http://dx.doi.org/10.4067/S0718-33052022000100037"
 
 
