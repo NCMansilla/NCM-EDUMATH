@@ -31,6 +31,29 @@ featured: false
 url_pdf: https://www.scielo.cl/pdf/ingeniare/v30n1/0718-3305-ingeniare-30-01-37.pdf
 
 
+---
+
+title: "Diseño e implementación de un laboratorio STEM para la enseñanza de matemática en ingeniería"
+authors:
+- Cárcamo-Mansilla Noemí
+- Rodríguez Francisco
+- Díaz-Levicoy Danilo
+doi: "http://dx.doi.org/10.4067/S0718-33052024000300123"
+
+publication_types: ["article-journal"]
+
+publication: "*Innovación Educativa en STEM, 40*(3)"
+publication_short: ""
+
+abstract: Este artículo presenta el diseño e implementación de un laboratorio STEM en un contexto universitario, con el objetivo de fortalecer el aprendizaje de matemática en ingeniería. Se abordan estrategias pedagógicas, uso de tecnologías emergentes y evaluación de resultados de aprendizaje. 
+
+summary: 
+tags:
+- STEM
+- Higher Education
+featured: true
+
+url_pdf: https://www.innovacioneducativastem.cl/pdf/v40n3.pdf
 
 ---
 
